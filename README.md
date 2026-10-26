@@ -38,7 +38,6 @@ Using every shot would over-represent one team, so the model uses
 - [ ] Final write-up
 
 ## How to run
-## How to run
 ```
 git clone https://github.com/AntonioB8800/xg-finishing-analysis.git
 cd xg-finishing-analysis
